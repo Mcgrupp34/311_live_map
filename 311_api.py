@@ -3,7 +3,7 @@
 import pandas as pd
 from sodapy import Socrata
 
-client = Socrata("data.cityofnewyork.us", None)
+client = Socrata("data.cityofnewyork.us", "None")
 
 # Example authenticated client (needed for non-public datasets):
 # client = Socrata(data.cityofnewyork.us,
