@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "complaint_type": "GENERAL CONSTRUCTION",
+        "descriptor": "DOORS",
+        "incident_address": "1515 Mc Donald Avenue",
+        "latitude": 40.615778148791705,
+        "longitude": -73.97431123653814
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97431123653814,
+          40.615778148791705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "complaint_type": "PLUMBING",
+        "descriptor": "BATHTUB",
+        "incident_address": "2000 Kings Highway",
+        "latitude": 40.61066902990479,
+        "longitude": -73.95347059071634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95347059071634,
+          40.61066902990479
+          ]
+        }
+      }
+    ]
+  }
