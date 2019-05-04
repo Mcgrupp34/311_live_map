@@ -14,5 +14,7 @@ See individual files for comments on what each part of the code is doing.
 ### Instructions
   To recreate this project you will need an Application Key from opendata.cityofnewyork.us and a Public Key from Mapbox.com. Use your Application Key in the Python file where it says "APP KEY" and your Public Key in the HTML file where it says 'MAPBOX PUBLIC KEY'. Change the 'useful_cols' in the python file to any other columns you find interesting to subsect the data to your desires.
   
+  OR, use the demo data found in the repo and skip the python step, making sure the HTML file points to the correct location for the demo data. 
+  
 ### Citations
   The dataframe to geojson conversion function is borrowed from Geoff Boeing, and was borrowed from https://geoffboeing.com/2015/10/exporting-python-data-geojson/
